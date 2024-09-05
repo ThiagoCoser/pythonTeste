@@ -7,3 +7,7 @@ Repositório curso de programação
 - 3
 
 ![minhaImagem](/Assets/kiwi.jpg)
+
+
+
+print ("thaymoz esteve aqui!")
