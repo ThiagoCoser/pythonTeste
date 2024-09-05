@@ -5,7 +5,7 @@ Este é meu primeiro repositório
 -1
 -2
 
-```js
+```py
 // This is a code block
 const a = 1;
 ```
