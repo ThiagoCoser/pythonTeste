@@ -13,3 +13,4 @@ Repositório curso de programação
 print ("thaymoz esteve aqui!")
 
 #### xaolin esteve por aqui
+- tamires não gosta do thaymoz 
