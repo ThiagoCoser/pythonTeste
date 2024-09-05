@@ -1,6 +1,6 @@
 # pythonTeste
 Este é meu primeiro repositório
-[https://opengraph.githubassets.com/d57edbd82de2e8ec3923e750519ac27a4b6ee8517d003d68807ba4d9c5fe5fe3/GoogleChrome/lighthouse]
+[The Google Logo](/articleAssets/2023-06/markdown-crash-course/Google_Normal.png)
 ## Tópicos
 -1
 -2
