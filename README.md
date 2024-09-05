@@ -15,3 +15,5 @@ print ("thaymoz esteve aqui!")
 #### xaolin esteve por aqui
 - tamires não gosta do thaymoz 
 ####HELLO
+
+# sem aula da gilette hj!!!!
