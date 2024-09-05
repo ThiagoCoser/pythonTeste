@@ -5,3 +5,4 @@ Repositório curso de programação
 - 1
 - 2
 - 3
+- ![minhaImagem](/Assets/kiwi.jpg)
